@@ -6,23 +6,24 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 50 minutos.
 
-<img src="https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
 
 
 
 ## Objetivos 
 
-En esta sesión abordaremos los elementos fundamentales para comprender en qué consiste el tipo de interacción denominada "mutualismo", así como su importancia en el ensamblaje de las comunidades ecológicas. Los objetivos más concretos son:
+En esta sesión iniciamos nuestro recorrido por el concepto de ecosistema. Después de hablar de comunidades durante varias semanas, las dejamos atrás integrándolas y trascendiéndolas. De manera muy sencilla definiremos un ecosistema como el conjunto de las comunidades que viven en un lugar determinado más el entorno físico en el que desarrollan su acdtividad. Este concepto nos permite incorporar la idea de intercambio de materia y energía entre lo vivo y lo inerte.
 
- + Definición del concepto de mutualismo como un tipo de interacción entre especies que constituyen una comunidad.
+De manera más específica, los objetivos de esta sesión son:
 
- + Establecer paralelismos entre el mutualismo y otras interacciones en las que uno de los agentes sale perjudicado (competencia o depredación).
+ + Conocer el concepto de ecosistema como elemento integrador de individuos, poblaciones y comunidades.
+ + Entender que el término ecosistema es escalo-dependiente. Es decir, que su definición se puede aplicar a diversas escalas espaciales y temporales.
+ + Comprender que los ecosistemas se pueden caracterizar por una serie de propiedades emergentes relacionadas con el flujo de materia y energía en su interior: producción primaria, secundaria, descomposición, etc.
+ + Reconocer la relación de este tema introductorio con las siguientes sesiones en las que se tratarán aspectos relacionados con la gestión de ecosistemas, impacto humano y cambio a escala planetaria. 
 
- + Conocer la importancia que ha tenido (y tiene) el mutualismo en la evolución biológica.
 
 
-
- ## Conceptos generales sobre mutualismo
+ ## Ecosistemas
 A lo largo de la sesión se abordan los siguientes tópicos, que se muestran con detalle en [este](https://github.com/aprendiendo-cosas/Te_mutualismo_ecologia_ccaa/raw/main/presentacion/Mutualismo.xmind) mapa mental. Dicho mapa puede visualizarse de manera dinámica en [esta](https://aprendiendo-cosas.github.io/Te_mutualismo_ecologia_ccaa/presentacion/Mutualismo.html) página e incrustado más abajo:
 
 + Definición de mutualismo.
