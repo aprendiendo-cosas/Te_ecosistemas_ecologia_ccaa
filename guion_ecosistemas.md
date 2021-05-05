@@ -23,7 +23,7 @@ De manera más específica, los objetivos de esta sesión son:
 
 
 
- ## Ecosistemas
+ ## Contenidos
 A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar de [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/main/presentacion/Ecosistemas_generalidades.xmind) y ver de  manera dinámica en [esta](https://aprendiendo-cosas.github.io/Te_ecosistemas_ecologia_ccaa/presentacion/ecosistemas.html) página.
 
 <iframe
