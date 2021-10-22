@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 50 minutos.
 
-<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/2020-2021/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
 
 
 
@@ -24,7 +24,7 @@ De manera más específica, los objetivos de esta sesión son:
 
 
  ## Contenidos
-A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar de [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/main/presentacion/Ecosistemas_generalidades.xmind) y ver de  manera dinámica en [esta](https://aprendiendo-cosas.github.io/Te_ecosistemas_ecologia_ccaa/presentacion/ecosistemas.html) página.
+A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar de [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/2020-2021/presentacion/Ecosistemas_generalidades.xmind) y ver de  manera dinámica en [esta](https://aprendiendo-cosas.github.io/Te_ecosistemas_ecologia_ccaa/presentacion/ecosistemas.html) página.
 
 <iframe
   src="https://aprendiendo-cosas.github.io/Te_ecosistemas_ecologia_ccaa/presentacion/ecosistemas.html"
