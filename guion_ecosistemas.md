@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 50 minutos.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2025_2026/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2025-2026/imagenes/portada.jpg)
 
 
 
@@ -24,10 +24,10 @@ De manera más específica, los objetivos de esta sesión son:
 
 
  ## Contenidos
-A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar de [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/2025_2026/presentacion/Ecosistemas_generalidades.xmind) y ver de  manera dinámica en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2025_2026/presentacion/ecosistemas.html) página.
+A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar de [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/2025-2026/presentacion/Ecosistemas_generalidades.xmind) y ver de  manera dinámica en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2025-2026/presentacion/ecosistemas.html) página.
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2025_2026/presentacion/ecosistemas.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/2025-2026/presentacion/ecosistemas.html"
   style="width:100%; height:450px;"
 ></iframe>
 
@@ -38,10 +38,10 @@ El siguiente vídeo muestra la grabación de esta sesión en el curso 20-21. Se 
 
 
 
-<iframe width="560" height="515" src="https://www.youtube.com/embed/m106CJYZ8TA?si=JalNW-eLxqeMdozc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="515" src="https://www.youtube.com/embed/C5rgtm7jFAo?si=ECSqp1bPtr6EMtHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-A veces no se reproduce el vídeo incrustado. Haz click [aquí](https://www.youtube.com/embed/m106CJYZ8TA?si=JalNW-eLxqeMdozc) y se abrirá en una nueva pestaña. 
+A veces no se reproduce el vídeo incrustado. Haz click [aquí](https://www.youtube.com/watch?v=C5rgtm7jFAo) y se abrirá en una nueva pestaña. 
 
 
 
@@ -49,7 +49,7 @@ A veces no se reproduce el vídeo incrustado. Haz click [aquí](https://www.yout
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/archive/refs/tags/2025-2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
